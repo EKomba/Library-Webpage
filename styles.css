@@ -208,6 +208,7 @@ button:active {
 
 .container {
     padding: 56px 0;
+    margin: 0 auto;
 }
 
 .row {
@@ -234,7 +235,7 @@ HIGHLIGHTS
 
 #highlights {
     position: relative;
-    max-width: 100vh;
+    max-width: 100vw;
 }
 
 #highlights:before,
